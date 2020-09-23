@@ -1,0 +1,26 @@
+com/qwerty/mjmod/iron_dagger/IronDaggerSwordBase.java
+ com.qwerty.mjmod.iron_dagger.IronDaggerSwordBase
+com/qwerty/mjmod/stone_dagger/StoneDaggerToolMaterial.java
+ com.qwerty.mjmod.stone_dagger.StoneDaggerToolMaterial
+com/qwerty/mjmod/wooden_dagger/WoodenDaggerToolMaterial.java
+ com.qwerty.mjmod.wooden_dagger.WoodenDaggerToolMaterial
+com/qwerty/mjmod/iron_dagger/IronDaggerToolMaterial.java
+ com.qwerty.mjmod.iron_dagger.IronDaggerToolMaterial
+com/qwerty/mjmod/diamond_dagger/DiamondDaggerToolMaterial.java
+ com.qwerty.mjmod.diamond_dagger.DiamondDaggerToolMaterial
+com/qwerty/mjmod/golden_dagger/GoldenDaggerSwordBase.java
+ com.qwerty.mjmod.golden_dagger.GoldenDaggerSwordBase
+com/qwerty/mjmod/diamond_dagger/DiamondDaggerSwordBase.java
+ com.qwerty.mjmod.diamond_dagger.DiamondDaggerSwordBase
+com/qwerty/mjmod/MJmod.java
+ com.qwerty.mjmod.MJmod
+com/qwerty/mjmod/wooden_dagger/WoodenDaggerSwordBase.java
+ com.qwerty.mjmod.wooden_dagger.WoodenDaggerSwordBase
+com/qwerty/mjmod/netherite_dagger/NetheriteDaggerSwordBase.java
+ com.qwerty.mjmod.netherite_dagger.NetheriteDaggerSwordBase
+com/qwerty/mjmod/golden_dagger/GoldenDaggerToolMaterial.java
+ com.qwerty.mjmod.golden_dagger.GoldenDaggerToolMaterial
+com/qwerty/mjmod/netherite_dagger/NetheriteDaggerToolMaterial.java
+ com.qwerty.mjmod.netherite_dagger.NetheriteDaggerToolMaterial
+com/qwerty/mjmod/stone_dagger/StoneDaggerSwordBase.java
+ com.qwerty.mjmod.stone_dagger.StoneDaggerSwordBase
